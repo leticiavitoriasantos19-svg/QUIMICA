@@ -8,11 +8,11 @@ import heroImage from "@/IMAGENS/imagem-principal.jpg";
 // 
 
 const DADOS_DO_GRUPO = {
-  titulo: "Tratamento de esgoto e efluentes",         // ← Troque pelo título
+  titulo: "Tratamento de esgoto e efluentes",             // ← Troque pelo título
   descricao: "Este trabalho fala sobre esgoto e efluentes, mostrando de forma simples como são tratados e a importância do descarte correto para evitar a poluição e proteger o meio ambiente.",      // ← Troque pela descrição
-  materias: ["QUÍMICA", "SUSTENTABILIDADE"],          // ← Troque pelas matérias
-  videoYouTube: "u4lcUooNNLY",                        // ← ID do vídeo do YouTube ID E SEMPRE O QUE ESTA NO FINAL DO LINK, DEPOIS DO V= EX: https://www.youtube.com/watch?v=**dQw4w9WgXcQ**
-  imagem: "imagem-principal.jpg",                     // ← Nome da imagem na pasta IMAGENS
+  materias: ["QUÍMICA", "SUSTENTABILIDADE"],              // ← Troque pelas matérias
+  videoYouTube: "hj6qi2_kasc46ci"                        // ← ID do vídeo do YouTube ID E SEMPRE O QUE ESTA NO FINAL DO LINK, DEPOIS DO V= EX: https://www.youtube.com/watch?v=**dQw4w9WgXcQ**
+  imagem: "imagem-principal.jpg",                         // ← Nome da imagem na pasta IMAGENS
 };
 
 // 
